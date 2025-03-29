@@ -2,4 +2,3 @@ local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubuserconte
 NotificationLibrary:SendNotification("Success", "I'm a cool message", 3)
 NotificationLibrary:SendNotification("Warning", "I'm a cool message", 3)
 NotificationLibrary:SendNotification("Error", "I'm a cool message", 3)
-NotificationLibrary:SendNotification("Info", "I'm a cool message", 3)
